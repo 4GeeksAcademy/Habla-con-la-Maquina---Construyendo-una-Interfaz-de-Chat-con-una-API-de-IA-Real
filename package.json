@@ -1,0 +1,32 @@
+{
+  "name": "chat-groq-prototype",
+  "version": "1.0.0",
+  "description": "Prototype chat interface with Groq metrics",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4GeeksAcademy/Habla-con-la-Maquina---Construyendo-una-Interfaz-de-Chat-con-una-API-de-IA-Real.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4GeeksAcademy/Habla-con-la-Maquina---Construyendo-una-Interfaz-de-Chat-con-una-API-de-IA-Real/issues"
+  },
+  "homepage": "https://github.com/4GeeksAcademy/Habla-con-la-Maquina---Construyendo-una-Interfaz-de-Chat-con-una-API-de-IA-Real#readme",
+  "private": true,
+  "dependencies": {
+    "next": "^16.2.10",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.2.10"
+  }
+}
